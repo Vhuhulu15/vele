@@ -8,7 +8,6 @@ int main(){
     string gender;
     string christ;
     string status;
-
     cout<<"What is your body count?"<<endl;
     cin>>count;
     cout<<"What is your age"<<endl;
